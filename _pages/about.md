@@ -14,8 +14,12 @@ I am also contributing to the [Python Optimal Transport](https://pythonot.github
 
 **Education**
 
-* Master 2 Mathématiques et Apprentissage (MASH), University Paris Dauphine (France), 2020
-* Master 2 Modélisation Aléatoire (e.x. DEA-Laure Elie), University Paris 7 (France), 2018
-* Master 1 Mathématiques et Applications, Université Paris 6 (France), 2017
-* Licence 3 en mathématiques fondamentales, Université Paris 13 (France), 2016
-* Bachelor of Statistics, Macquarie University (Australia), 2013
+* Master 2 Mathématiques et Apprentissage (MASH), Université Paris Dauphine, 2020
+* Master 2 Modélisation Aléatoire (e.x. DEA-Laure Elie), Université Paris 7, 2018
+* Master 1 Mathématiques et Applications, Université Paris 6, 2017
+
+**Experience**
+
+* Data Scientist, Rakuten Advertising (France), 2020
+* Quantitative Analyst, OSSIAM (France), 2019
+* Quantitative Risk Analyst, GIE AXA (France), 2018
