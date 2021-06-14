@@ -15,7 +15,7 @@ I am also contributing to the [Python Optimal Transport](https://pythonot.github
 **Education**
 
 * Master 2 Mathématiques et Apprentissage (MASH), Université Paris Dauphine, 2020
-* Master 2 Modélisation Aléatoire (e.x. DEA-Laure Elie), Université Paris 7, 2018
+* Master 2 Modélisation Aléatoire (ex - DEA Laure Elie), Université Paris 7, 2018
 * Master 1 Mathématiques et Applications, Université Paris 6, 2017
 
 **Experience**
