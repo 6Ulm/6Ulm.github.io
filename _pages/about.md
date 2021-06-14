@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the Université Bretagne Sud and Ecole Polytechnique under the supervision of [Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/), [Rémi Flamary](https://remi.flamary.com/index.html) and [Karim Lounici](http://www.cmapx.polytechnique.fr/~karim.lounici/)
+I am a first year PhD student at the Université Bretagne Sud and Ecole Polytechnique under the supervision of [Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/), [Rémi Flamary](https://remi.flamary.com/index.html) and [Karim Lounici](http://www.cmapx.polytechnique.fr/~karim.lounici/). I work on the practical aspects of optimal transport, namely numerical and statistical, and its applications.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am also contributing to the [Python Optimal Transport](https://pythonot.github.io/index.html) library.
+
+**Education**
+
+* 2020 - B.S. in GitHub, University Paris Dauphine, France
+* 2018 - Master 2 Modélisation Aléatoire (e.x. DEA-Laure Elie) University Paris 7, France
+* 2017 - Master 1 Mathématiques et Applications, Université Paris 6, France
+* 2016 - Licence 3 en mathématiques fondamentales, Université Paris 13, France
+* 2010-2013 - Bachelor of Statistics, Macquarie University, Australia
