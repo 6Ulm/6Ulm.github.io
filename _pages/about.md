@@ -20,6 +20,6 @@ I am also contributing to the [Python Optimal Transport](https://pythonot.github
 
 **Experience**
 
-* Data Scientist, Rakuten Advertising (France), 2020
-* Quantitative Analyst, OSSIAM (France), 2019
-* Quantitative Risk Analyst, GIE AXA (France), 2018
+* Data Scientist, Rakuten Advertising, 2020
+* Quantitative Analyst, OSSIAM, 2019
+* Quantitative Risk Analyst, GIE AXA, 2018
