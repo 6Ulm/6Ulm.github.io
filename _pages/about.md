@@ -18,8 +18,4 @@ I am also contributing to the [Python Optimal Transport](https://pythonot.github
 * Master 2 Modélisation Aléatoire (ex - DEA Laure Elie), Université Paris 7, 2018
 * Master 1 Mathématiques et Applications, Université Paris 6, 2017
 
-**Experience**
-
-* Data Scientist, Rakuten Advertising, 2020
-* Quantitative Analyst, OSSIAM, 2019
-* Quantitative Risk Analyst, GIE AXA, 2018
+**News**
